@@ -1,0 +1,4 @@
+{
+  "/api/genrate-plan/route": "app/api/genrate-plan/route.js",
+  "/page": "app/page.js"
+}
